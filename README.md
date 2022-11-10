@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 <!--
-**Raghav_Verma25/Raghav_Verma25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Raghav-Verma25/Raghav-Verma25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="200px"/></a> -->
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">Hi , I am Raghav Verma! Great to see you here! </h1>
-<p algin = "center"><a href="https://github.com/Raghav_Verma25/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20passionate%20Frontend%20Developer;I%20Love%20to%20Explore%20Different%20things;I%20Love%20Coding%20❤%20!;I%20Like%20to%20learn%20new%20Technologies.&font=Fira%20Code&left=true&width=440&height=45&color=61CC8C&vleft=true&size=22"></a>
+<p algin = "center"><a href="https://github.com/Raghav-Verma25/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20passionate%20Frontend%20Developer;I%20Love%20to%20Explore%20Different%20things;I%20Love%20Coding%20❤%20!;I%20Like%20to%20learn%20new%20Technologies.&font=Fira%20Code&left=true&width=440&height=45&color=61CC8C&vleft=true&size=22"></a>
 </p>
 <!-- <h3 align="center">I'm a passionate Full Stack Developer from India.</h3> -->
 
@@ -23,7 +23,7 @@ I am Raghav Verma, currently pursuing my B.Tech degree in Computer Science from 
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me **satyam432st@gmail.com**
+- 📫 How to reach me **raghav14971@gmail.com**
 
 - ⚡ Fun fact **Don’t worry if plan A fails. There are 25 more letters in the alphabets!**
 
@@ -60,7 +60,7 @@ I am Raghav Verma, currently pursuing my B.Tech degree in Computer Science from 
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Raghav_Verma25/github-readme-streak-stats">
+    <a href="https://github.com/Raghav-Verma25/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Raghav Verma's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -68,8 +68,8 @@ I am Raghav Verma, currently pursuing my B.Tech degree in Computer Science from 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Raghav_Verma25/github-readme-stats"><img alt="Raghav Verma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Raghav_Verma25&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Raghav_Verma25/github-readme-stats"><img alt="Raghav Verma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav_Verma25&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Raghav-Verma25/github-readme-stats"><img alt="Raghav Verma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Raghav-Verma25&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Raghav-Verma25/github-readme-stats"><img alt="Raghav Verma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav-Verma25&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -77,7 +77,7 @@ I am Raghav Verma, currently pursuing my B.Tech degree in Computer Science from 
 <br/>
 <br/>
 
-<a href="https://github.com/Raghav_Verma25/github-readme-activity-graph"><img alt="Raghav Verma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Raghav_Verma25&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Raghav-Verma25/github-readme-activity-graph"><img alt="Raghav Verma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Raghav-Verma25&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -92,6 +92,6 @@ I am Raghav Verma, currently pursuing my B.Tech degree in Computer Science from 
 </p>
 
 ## ❤ Views and Followers
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Raghav_Verma25&label=Profile%20views&color=0e75b6&style=flat" alt="Raghav_Verma25" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Raghav-Verma25&label=Profile%20views&color=0e75b6&style=flat" alt="Raghav-Verma25" /> </p>
 </a>
-<a href="https://github.com/Raghav_Verma25?tab=followers"><img src="https://img.shields.io/github/followers/Raghav_Verma25?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Raghav-Verma25?tab=followers"><img src="https://img.shields.io/github/followers/Raghav-Verma25?label=Followers&style=social" alt="GitHub Badge"></a>
